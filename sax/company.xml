@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+
+<company>
+    <department depId="1" name="Development">
+        <employee empId="01">
+    <lastName>King</lastName>
+    <firstName>Alex</firstName>
+    <birthDate>01.01.1970</birthDate>
+    <position>Department Manager</position>
+    <skills>
+       <skill>Communication</skill>
+       <skill>Java</skill>
+    </skills>
+    <managerId>0</managerId>
+        </employee>
+        <employee empId="02">
+    <lastName>Mark</lastName>
+    <firstName>Ray</firstName>
+    <birthDate>01.04.1997</birthDate>
+    <position>Developer</position>
+    <skills>
+      <skill>Gaming</skill>
+      <skill>Plays guitar</skill>
+      <skill>Works 12 hours a day</skill>
+     </skills>
+    <managerId>001</managerId>
+</employee>
+</department>
+    <department depId="2" name="Testing">
+        <employee empId="001">
+            <lastName>Brown</lastName>
+            <firstName>Eva</firstName>
+            <birthDate>12.02.1976</birthDate>
+            <position>Department Manager</position>
+            <skills>
+                <skill>Receptivity</skill>
+                <skill>Responsability</skill>
+                <skill>Java</skill>
+            </skills>
+            <managerId>0</managerId>
+        </employee>
+        <employee empId="002">
+            <lastName>Winfrey</lastName>
+            <firstName>Oprah</firstName>
+            <birthDate>26.05.2001</birthDate>
+            <position>Test lead</position>
+            <skills>
+                <skill>Careful</skill>
+                <skill>Works a lot</skill>
+            </skills>
+            <managerId>001</managerId>
+        </employee>
+        <employee empId="003">
+            <lastName>Miller</lastName>
+            <firstName>Daniel</firstName>
+            <birthDate>04.01.1988</birthDate>
+
+    <position>Tester</position>
+
+
+    -<skills>
+
+    <skill>C++</skill>
+
+    <skill>Automation testing</skill>
+
+    <skill>Work without leave</skill>
+
+</skills>
+
+    <managerId>002</managerId>
+
+</employee>
+
+</department>
+
+
+    -<department depId="3" name="Managers">
+
+
+    -<employee empId="0001">
+
+    <lastName>Billock</lastName>
+
+    <firstName>Sandra</firstName>
+
+    <birthDate>17.12.1985</birthDate>
+
+    <position>Project Manager</position>
+
+
+    -<skills>
+
+    <skill>Communication</skill>
+
+    <skill>Charisma</skill>
+
+</skills>
+
+    <managerId>0</managerId>
+
+</employee>
+
+
+    -<employee empId="0002">
+
+    <lastName>Amorosi</lastName>
+
+    <firstName>Vanessa</firstName>
+
+    <birthDate>11.10.1980</birthDate>
+
+    <position>Product Manager</position>
+
+
+    <skills>
+
+    <skill>Attention to detail</skill>
+
+    <skill>Receptivity</skill>
+
+</skills>
+
+    <managerId>001</managerId>
+
+</employee>
+
+
+    <employee empId="0003">
+
+    <lastName>Lee</lastName>
+
+    <firstName>Maxim</firstName>
+
+    <birthDate>01.07.1993</birthDate>
+
+    <position>Bussiness analyst </position>
+
+
+    <skills>
+
+    <skill>Bussiness and administration</skill>
+
+    <skill>Careful</skill>
+
+    <skill>Attention to detail</skill>
+
+</skills>
+
+    <managerId>002</managerId>
+
+</employee>
+
+</department>
+
+</company>
